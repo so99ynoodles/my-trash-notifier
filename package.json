@@ -13,7 +13,7 @@
 		"depd": "^1.1.2",
 		"ee-first": "^1.1.1",
 		"file-type": "^7.7.1",
-		"follow-redirects": "^1.5.10",
+		"follow-redirects": "^1.14.7",
 		"http-errors": "^1.7.2",
 		"iconv-lite": "^0.4.24",
 		"inherits": "^2.0.3",
