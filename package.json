@@ -21,7 +21,7 @@
 		"media-typer": "^0.3.0",
 		"mime-db": "^1.40.0",
 		"mime-types": "^2.1.24",
-		"moment": "^2.24.0",
+		"moment": "^2.29.4",
 		"moment-timezone": "^0.5.25",
 		"ms": "^2.0.0",
 		"on-finished": "^2.3.0",
