@@ -22,7 +22,7 @@
 		"mime-db": "^1.40.0",
 		"mime-types": "^2.1.24",
 		"moment": "^2.24.0",
-		"moment-timezone": "^0.5.25",
+		"moment-timezone": "^0.5.35",
 		"ms": "^2.0.0",
 		"on-finished": "^2.3.0",
 		"qs": "^6.7.0",
