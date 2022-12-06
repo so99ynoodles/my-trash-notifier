@@ -25,7 +25,7 @@
 		"moment-timezone": "^0.5.25",
 		"ms": "^2.0.0",
 		"on-finished": "^2.3.0",
-		"qs": "^6.7.0",
+		"qs": "^6.7.3",
 		"raw-body": "^2.4.0",
 		"safer-buffer": "^2.1.2",
 		"setprototypeof": "^1.1.1",
